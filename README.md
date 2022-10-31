@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiliWerneck) &nbsp; 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiliWerneck&show_icons=true&count_private=true) 
+
+
 
 <!--
 **MiliWerneck/MiliWerneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
