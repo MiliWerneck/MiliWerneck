@@ -1,5 +1,9 @@
-## Marin
+## Marinêz Werneck Magalhães
 
+<div align="justify">
+  <p>Cursando 6° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
+</div
+  
 ![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiliWerneck) &nbsp; 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiliWerneck&show_icons=true&count_private=true) 
