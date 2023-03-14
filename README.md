@@ -1,7 +1,7 @@
 ## Marinêz Werneck Magalhães
 
 <div align="justify">
-  <p>Cursando Engenharia da Computação no CEFET-MG, Campus V<p>
+  <p>Estudante de Engenharia de Computação no CEFET-MG, Campus V<p>
 </div
   
 ![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
