@@ -7,7 +7,13 @@
 ![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiliWerneck&row=1" alt="MiliWerneck" /></a> </p>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiliWerneck&show_icons=true&locale=en&layout=compact" alt="MiliWerneck" /></p>
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiliWerneck&show_icons=true&locale=en" alt="MiliWerneck" /></p>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiliWerneck&" alt="MiliWerneck" /></p>
+ 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiliWerneck) &nbsp; 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiliWerneck&show_icons=true&count_private=true) 
 
