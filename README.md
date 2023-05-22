@@ -5,12 +5,14 @@
 </div
   
 ![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiliWerneck) &nbsp; 
+  
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiliWerneck&row=1" alt="MiliWerneck" /></a> </p>
+  
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiliWerneck) &nbsp; 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiliWerneck&show_icons=true&count_private=true) 
 
 
 
-<!--
 **MiliWerneck/MiliWerneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
