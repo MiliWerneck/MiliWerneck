@@ -4,7 +4,8 @@
   <p>Estudante de Engenharia de Computação no CEFET-MG, Campus V<p>
 </div
   
-![Profile views](https://gpvc.arturio.dev/MiliWerneck) 
+</br>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/MiliWerneck/count.svg"/></p>
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiliWerneck&row=1" alt="MiliWerneck" /></a> </p>
  
