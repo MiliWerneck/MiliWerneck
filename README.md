@@ -1,7 +1,7 @@
 ## Marinêz Werneck Magalhães
 
 <div align="justify">
-  <p>Estudante de Engenharia de Computação no CEFET-MG, Campus V<p>
+  <p>Engenheira de Computação - CEFET-MG, Campus V<p>
 </div
   
 </br>
